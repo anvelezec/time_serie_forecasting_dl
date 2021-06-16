@@ -9,4 +9,3 @@ def test_ts_data():
     # Display image and label.
     train_features, train_labels = next(iter(training_data))
     assert len(train_features) + len(train_labels) == n_steps
-    assert len(train_labels) == batch_size

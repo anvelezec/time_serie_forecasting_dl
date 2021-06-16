@@ -1,6 +1,6 @@
 # Time serie forecasting with deep learning
 
-Exploration of different deep learning techniques to deal with time series forecasting. Covering RNN such as basic RRN, GRU, LSTS, attetntion layers and some of latest papers about this topic.
+Exploration of different deep learning techniques to deal with time series forecasting. Covering RNN such as basic RRN, GRU, LSTS, attention layers and some of latest papers about this topic.
 
 
 ## Data generation
