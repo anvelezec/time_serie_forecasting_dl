@@ -3,7 +3,7 @@ from torch import nn
 from train_step import train, test
 from data import TSData
 from torch.utils.data import DataLoader
-from fc_model import FullConnect
+from fc_nn.fc_model import FullConnect
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 n_steps = 24
